@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Xsort-Programming/one-health-approach/static/css/main.691825a1.chunk.css",
+    "main.js": "/Xsort-Programming/one-health-approach/static/js/main.85c5b65b.chunk.js",
+    "main.js.map": "/Xsort-Programming/one-health-approach/static/js/main.85c5b65b.chunk.js.map",
+    "runtime-main.js": "/Xsort-Programming/one-health-approach/static/js/runtime-main.c6810edf.js",
+    "runtime-main.js.map": "/Xsort-Programming/one-health-approach/static/js/runtime-main.c6810edf.js.map",
+    "static/css/2.220ccb42.chunk.css": "/Xsort-Programming/one-health-approach/static/css/2.220ccb42.chunk.css",
+    "static/js/2.c7f5ff92.chunk.js": "/Xsort-Programming/one-health-approach/static/js/2.c7f5ff92.chunk.js",
+    "static/js/2.c7f5ff92.chunk.js.map": "/Xsort-Programming/one-health-approach/static/js/2.c7f5ff92.chunk.js.map",
+    "index.html": "/Xsort-Programming/one-health-approach/index.html",
+    "precache-manifest.e26e475758ea2a2602da4a3771681f7a.js": "/Xsort-Programming/one-health-approach/precache-manifest.e26e475758ea2a2602da4a3771681f7a.js",
+    "service-worker.js": "/Xsort-Programming/one-health-approach/service-worker.js",
+    "static/css/2.220ccb42.chunk.css.map": "/Xsort-Programming/one-health-approach/static/css/2.220ccb42.chunk.css.map",
+    "static/css/main.691825a1.chunk.css.map": "/Xsort-Programming/one-health-approach/static/css/main.691825a1.chunk.css.map",
+    "static/js/2.c7f5ff92.chunk.js.LICENSE.txt": "/Xsort-Programming/one-health-approach/static/js/2.c7f5ff92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6810edf.js",
+    "static/css/2.220ccb42.chunk.css",
+    "static/js/2.c7f5ff92.chunk.js",
+    "static/css/main.691825a1.chunk.css",
+    "static/js/main.85c5b65b.chunk.js"
+  ]
+}
